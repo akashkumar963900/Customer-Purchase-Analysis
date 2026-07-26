@@ -1,2 +1,5 @@
-# Customer-Purchase-Analysis
-End-to-end Customer Behavior Analysis project leveraging MySQL for data extraction, Pandas for data cleaning and analysis, and Power BI for interactive dashboards to uncover purchasing patterns and deliver actionable business insights.
+## Project Highlights
+
+- Designed an end-to-end customer behavior analysis workflow using **MySQL**, **Python (Pandas)**, and **Power BI**.
+- Performed data extraction, cleaning, and exploratory data analysis (EDA) to uncover customer purchasing trends.
+- Developed interactive dashboards to communicate insights and support data-driven business decision-making.
